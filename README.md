@@ -15,3 +15,10 @@ $ .\env\Scripts\activate    # activate the virtual environment
 $ pip install -r requirements.txt    # install the dependencies
 $ python script.py    # run the script
 ```
+
+## Output example
+
+Examples of output can be found in the [jobs folder](./jobs)
+
+-   [csv](./jobs/jobs_python_10-Aug-2021.csv)
+-   [txt](./jobs/jobs_python_10-Aug-2021.txt)
