@@ -7,7 +7,7 @@ A script that scrapes jobs data from <a href="https://www.timesjobs.com/">timesj
 You need to have python3 installed, version 3.7 or above
 
 ```bash
-$ git clone https://github.com/K-Kelvin/timesjobs-scrapper/    # clone the repository
+$ git clone https://github.com/K-Kelvin/timesjobs-scrapper.git    # clone the repository
 
 $ cd timesjobs-scrapper    # change directory to the cloned folder
 $ python -m venv env    # create a virtual environment
